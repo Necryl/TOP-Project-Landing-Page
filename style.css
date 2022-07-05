@@ -117,6 +117,16 @@ body {
 .quote-section {
     display: flex;
     flex-direction: column;
+    padding: 5% 8%;
+}
+
+.quote {
+    margin: 0%;
+}
+
+.quoter {
+    margin: 0%;
+    align-self: flex-end;
 }
 
 .call-to-action-section {
@@ -125,7 +135,7 @@ body {
     align-items: center;
     background-color: #3882f6;
     border-radius: 0.75em;
-    padding: 3em 7em;
+    padding: 3.5% 7%;
 }
 
 .cta-text {
